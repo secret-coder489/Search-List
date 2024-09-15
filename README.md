@@ -1,9 +1,9 @@
 # Clone Project in your selected folder
 
-git clone <repository-url>
+git clone repository-url
 eg: git clone https://github.com/secret-coder489/Search-List.git
 
-cd <project-directory>
+Go On cd project-directory
 
 ## To Install node modules and required stuff  please run below command
 ### npm install / npm install --f
