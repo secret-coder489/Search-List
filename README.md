@@ -1,18 +1,22 @@
-# Getting Started with Create React App
+# Clone Project in your selected folder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+git clone <repository-url>
+eg: git clone https://github.com/secret-coder489/Search-List.git
 
-## Available Scripts
+cd <project-directory>
 
-In the project directory, you can run:
+## To Install node modules and required stuff  please run below command
+### npm install / npm install --f
 
+## To Start project on you local please run below command
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.\ -------> On your Local
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
+## To Run Test Cases Please run below command
 
 ### `npm test`
 
